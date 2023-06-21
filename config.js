@@ -12,14 +12,14 @@ global.APIKeys = {
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝙰𝙳𝚁𝙸𝙰𝙽-𝙼𝙳'
-global.namaowner = '𝙰𝙳𝚁𝙸𝙰𝙽'
+global.namabot = '𝕍-𝟜𝕣𝕚𝕖𝕤𝕤𝕤𝕤𝕫'
+global.namaowner = '𝗵𝟰𝗻𝘇𝗼'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.ownernomer = "6289513081052"
-global.premium = ['6289513081052']
-global.ultah = 'Maret 24, 2024'
+global.owner = ['601127240988','601137759884']
+global.ownernomer = "601127240988","601137759884"
+global.premium = ['601127240988','601137759884']
+global.ultah = 'Maret 21, 2024'
 
 //—————「 Setting Donasi 」—————//
 global.dana = '089513081052'
