@@ -22,7 +22,7 @@ global.premium = ['601127240988','601137759884']
 global.ultah = 'Maret 21, 2024'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '089513081052'
+global.dana = '601127240988'
 
 //—————「 Set Kebutuhan Button 」—————//
 global.email = 'azzygota24@gmail.com'
