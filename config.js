@@ -25,13 +25,13 @@ global.ultah = 'Maret 21, 2024'
 global.dana = '601127240988'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'azzygota24@gmail.com'
+global.email = '4riessssz@gmail.com'
 global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@dryan.am'
-global.region = 'Indonesia'
-global.github = 'https://github.com/AdrianTzy'
-global.mygc = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
-global.myig = 'https://instagram.com/dryan.pu'
+global.myweb = 'https://tiktok.com/@nsgqoutess'
+global.region = 'Malaysia'
+global.github = 'https://github.com/OrewaHanz'
+global.mygc = 'https://chat.whatsapp.com/KGfJA0oNnrDIEwtr8To3y6'
+global.myig = 'https://instagram.com/hanzooooxx'
 
 //—————「 Set Wm 」—————//
 global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
